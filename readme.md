@@ -11,3 +11,4 @@ Then in the microfetch directory run this:
 ```bash
 curl -o ~/.config/neofetch/config.conf config.conf
 ```
+Also make sure to replace "fedora_small" with your distro's small
