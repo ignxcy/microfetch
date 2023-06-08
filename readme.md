@@ -1,6 +1,8 @@
 # microfetch
 
 A simple Neofetch theme!
+## Preview:
+![](preview.png)
 ## installation:
 First make sure to make a backup of your config:
 ```bash
